@@ -1,0 +1,85 @@
+﻿@model ProyectoAdopta.Models.Animal
+
+@{ 
+    List<int> lista = (List<int>)Session["CARRITO"];
+}
+
+<h1>@Model.Nombre</h1>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <img src="@Url.Content("~/Images/" + Model.Imagen)" style="width:500px; height:500px;" class="img-responsive" />
+        </div>
+        <div class="col-md-6">
+            <div>
+                <p><b>Peso: </b> @Model.Peso Kg</p>
+            </div>
+            <div>
+                <p><b>Fecha de nacimiento:</b> @DateTime.Parse(Model.Fecha_nac.ToString()).ToShortDateString()</p>
+            </div>
+            <div>
+                <p><b>Descripción:</b></p>
+                @Model.Descripcion
+            </div>
+
+            <div>
+                @if (lista == null)
+                {
+                    @Html.ActionLink("Añade al carrito de adopciones", "AdoptaAnimal", "Home", new { idanimal = Model.IdAnimal }, null)
+                }
+                else
+                {
+                    if (lista.Contains(Model.IdAnimal))
+                    {
+                        <p style="color:gray">Ya adoptado</p>
+                    }
+                    else
+                    {
+                        @Html.ActionLink("Añade al carrito de adopciones", "AdoptaAnimal", "Home", new { idanimal = Model.IdAnimal }, null)
+                    }
+                }
+            </div>
+
+            <div>
+                @Html.ActionLink("Volver", "Index", "Home")
+            </div>
+        </div>
+    </div>
+</div>
+
+@*<div>
+    <img src="@Url.Content("~/Images/" + Model.Imagen)" style="width:500px; height:500px;" class="img-responsive" />
+</div>
+<div>
+    <p><b>Peso: </b> @Model.Peso Kg</p>
+</div>
+<div>
+    <p><b>Fecha de nacimiento:</b> @DateTime.Parse(Model.Fecha_nac.ToString()).ToShortDateString()</p>
+</div>
+<div>
+    <p><b>Descripción:</b></p>
+    @Model.Descripcion
+</div>
+
+<div>
+    @if (lista == null)
+    {
+        @Html.ActionLink("Añade al carrito de adopciones", "AdoptaAnimal", "Home", new { idanimal = Model.IdAnimal }, null)
+    }
+    else
+    {
+        if (lista.Contains(Model.IdAnimal))
+        {
+            <p style="color:gray">Ya adoptado</p>
+        }
+        else
+        {
+            @Html.ActionLink("Añade al carrito de adopciones", "AdoptaAnimal", "Home", new { idanimal = Model.IdAnimal }, null)
+        }
+    }
+</div>
+
+<div>
+    @Html.ActionLink("Volver", "Index", "Home")
+</div>*@

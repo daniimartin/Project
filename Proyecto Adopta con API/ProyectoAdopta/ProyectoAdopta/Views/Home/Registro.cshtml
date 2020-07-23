@@ -1,0 +1,46 @@
+﻿
+@{
+    ViewBag.Title = "Registro";
+}
+
+<h2>Regístrate</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <label>Nombre: </label>
+        <input type="text" name="nombre" class="form-control" required />
+    </div>
+    <div>
+        <label>Apellidos: </label>
+        <input type="text" name="apellidos" class="form-control" required />
+    </div>
+    <div>
+        <label>Fecha de nacimiento: </label>
+        <input type="date" name="fecha" class="form-control" required />
+    </div>
+    <div>
+        <label>Dirección: </label>
+        <input type="text" name="direccion" class="form-control" required />
+    </div>
+    <div>
+        <label>Código postal: </label>
+        <input type="number" name="cp" class="form-control" required />
+    </div>
+    <div>
+        <label>Email: </label>
+        <input type="email" name="email" class="form-control" required />
+    </div>
+    <div>
+        <label>Contraseña: </label>
+        <input type="password" name="password" class="form-control" required />
+    </div>
+    <p>*Todos los campos son obligatorios*</p>
+    <div>
+        <button type="submit" class="btn btn-success">
+            Registrarse
+        </button>
+    </div>
+}
+
+<h3>@ViewBag.Mensaje</h3>

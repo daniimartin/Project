@@ -1,0 +1,40 @@
+﻿@model List<ProyectoAdopta.Models.Animal>
+
+@{ 
+    List<int> animalesadoptados = Session["CARRITO"] as List<int>;
+}
+
+<h2>Carrito de adopciones</h2>
+
+@if (Session["CARRITO"] != null)
+{
+    <table class="table table-bordered">
+        <tr>
+            <th>NOMBRE</th>
+            <th>FECHA DE NACIMIENTO</th>
+            <th>DESCRIPCIÓN</th>
+            <th>PESO</th>
+            <th>IMAGEN</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@DateTime.Parse(item.Fecha_nac.ToString()).ToShortDateString()</td>
+                <td>@item.Descripcion</td>
+                <td>@item.Peso Kg</td>
+                <td>
+                    <img src="@Url.Content("~/Images/" + item.Imagen)" style="width:100px; height:100px;" />
+                </td>
+            </tr>
+        }
+    </table>
+}
+else
+{
+    <h2 style="color:red">Vacío</h2>
+}
+
+@Html.ActionLink("Volver al inicio", "Index", "Home") | 
+@Html.ActionLink("Vaciar carrito", "VaciarCarrito", "Home") | 
+@Html.ActionLink("Finalizar adopción", "VistaPedido", "Home")

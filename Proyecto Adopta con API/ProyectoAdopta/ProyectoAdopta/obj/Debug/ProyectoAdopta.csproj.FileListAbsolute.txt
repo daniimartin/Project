@@ -1,0 +1,279 @@
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\ApplicationInsights.config
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.dll.config
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.pdb
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Antlr3.Runtime.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.SqlServer.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Web.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Newtonsoft.Json.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Helpers.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Mvc.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Optimization.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Razor.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Razor.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\WebGrease.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.SqlServer.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Helpers.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Mvc.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Optimization.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Razor.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Razor.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Antlr3.Runtime.pdb
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Newtonsoft.Json.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Web.xml
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.csprojResolveAssemblyReference.cache
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.csproj.CoreCompileInputs.cache
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.dll
+C:\Users\MCSD2017\documents\visual studio 2017\Projects\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.pdb
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.dll.config
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.pdb
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\WebGrease.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.dll
+C:\Users\Admin\Desktop\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.pdb
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\ApplicationInsights.config
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.dll.config
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.pdb
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Antlr3.Runtime.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.SqlServer.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Web.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Newtonsoft.Json.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Helpers.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Mvc.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Optimization.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Razor.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Razor.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\WebGrease.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.SqlServer.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Helpers.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Mvc.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Optimization.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Razor.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Razor.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Antlr3.Runtime.pdb
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Newtonsoft.Json.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Web.xml
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.csprojResolveAssemblyReference.cache
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.csproj.CoreCompileInputs.cache
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.dll
+C:\Users\MCSD2017\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.pdb
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.dll.config
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.pdb
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\WebGrease.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.dll
+C:\Users\Admin\Desktop\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.pdb
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\ApplicationInsights.config
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.dll.config
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.pdb
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Antlr3.Runtime.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.SqlServer.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Agent.Intercept.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.DependencyCollector.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Web.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.WindowsServer.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.ApplicationInsights.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.Web.Infrastructure.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Newtonsoft.Json.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Helpers.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Mvc.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Optimization.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Razor.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Deployment.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Razor.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\WebGrease.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.SqlServer.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Helpers.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Mvc.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Optimization.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Razor.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Deployment.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Razor.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Antlr3.Runtime.pdb
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Newtonsoft.Json.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.ApplicationInsights.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.DependencyCollector.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.WindowsServer.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Web.xml
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.csprojResolveAssemblyReference.cache
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.csproj.CoreCompileInputs.cache
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.dll
+G:\PROYECTO_ADOPTA\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.pdb
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\ApplicationInsights.config
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.dll.config
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\ProyectoAdopta.pdb
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Antlr3.Runtime.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.SqlServer.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Web.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Newtonsoft.Json.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Helpers.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Mvc.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Optimization.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Razor.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Razor.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\WebGrease.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\EntityFramework.SqlServer.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Helpers.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Mvc.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Optimization.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Web.Razor.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Web.WebPages.Razor.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Antlr3.Runtime.pdb
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Newtonsoft.Json.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\Microsoft.AI.Web.xml
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.csprojResolveAssemblyReference.cache
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.csproj.CoreCompileInputs.cache
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.csproj.CopyComplete
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\obj\Debug\ProyectoAdopta.pdb
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Net.Http.Formatting.dll
+C:\Users\MCSD2017\Desktop\Proyecto Adopta con API\ProyectoAdopta\ProyectoAdopta\bin\System.Net.Http.Formatting.xml

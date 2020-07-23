@@ -1,0 +1,42 @@
+﻿@model List<ProyectoAdopta.Models.Animal>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="container">
+    <img src="~/Images/Contacto/contacto4.jpg" class="img_header" />
+</div>
+
+<div class="row">
+    <div class="col-md-12" style="text-align:center">
+        <h2>Bienvenido a ProyectoAdopta!!</h2>
+        <p>Empezamos hace años de una forma individual y en sólo 4 años somos una de las protectoras de animales punteras en toda España.</p>
+        <p>Nuestra dedicación y buen trato con los animales nos ha convertido en lo que somos, y en llevar más de 1000 adopciones en estos 4 años.</p>
+        <p>Echa un vistazo por nuestra web y no dudes en llevar a casa a otro miembro más de la familia!</p>
+        <p>Somos líderes en adopciones de animales en toda la Comunidad de Madrid, y es todo gracias a vosotros!!!</p>
+    </div>
+</div>
+<div style="text-align:center">
+    <h3>Nuestra familia:</h3>
+</div>
+<div class="container-fluid">
+    @if (Model != null)
+    {
+        <div class="row">
+            @foreach (var ani in Model)
+            {
+                <div class="col-md-4" style="border:2px ridge; text-align: center;">
+                    <h3>
+                        @ani.Nombre
+                    </h3>
+                    <h4>
+                        @DateTime.Parse(ani.Fecha_nac.ToString()).ToShortDateString()
+                    </h4>
+                    <img src="@Url.Content("~/Images/" + ani.Imagen)" style="width:200px; height:200px; margin: 10px;" class="img-circle" />
+                    @Html.ActionLink("Detalles", "Detalles", "Home", new { idanimal = ani.IdAnimal }, null)
+                </div>
+            }
+        </div>
+    }
+</div>

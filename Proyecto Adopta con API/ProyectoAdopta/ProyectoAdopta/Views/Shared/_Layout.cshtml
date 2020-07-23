@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("ProyectoAdopta", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Inicio", "Index", "Home")</li>
+                    @*<li>@Html.ActionLink("Animales en adopción", "About", "Home")</li>*@
+                    @*<li>@Html.ActionLink("Dona y ayuda", "Ayuda", "Home")</li>*@
+                    <li>@Html.ActionLink("Contacto", "Contact", "Home")</li>
+                </ul>
+                <ul class="nav navbar-nav" style="float:right">
+                    @*<li>@Html.ActionLink("Carrito", "Carrito", "Home")</li>*@
+                    <li><a href=@Url.Action("Carrito", "Home")><span class="glyphicon glyphicon-shopping-cart"></span></a></li>
+                    @if (Session["idusuario"] != null)
+                    {
+                        <li>@Html.ActionLink("Bienvenido, " + @HttpContext.Current.User.Identity.Name, "")</li>
+                        <li>@Html.ActionLink("Cerrar sesión", "CerrarSesion", "Home")</li>
+                    }
+                    else
+                    {
+                        <li>@Html.ActionLink("Iniciar sesión", "Login", "Validacion")</li>
+                        <li>@Html.ActionLink("Registrarse", "Registro", "Home")</li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <div class="col-md-6">
+                <h3 style="color: white">Contáctanos: </h3>
+                <p style="color: white">666666666 | 999999999</p>
+            </div>
+            <div class="col-md-6">
+                <h3 style="color: white">Síguenos en:</h3>
+                <a target="_blank" href="https://www.facebook.com/" class="ico">Facebook</a> |
+                <a target="_blank" href="https://www.instagram.com/" class="ico">Instagram</a>
+            </div>
+            <p style="color:white;">&copy; @DateTime.Now.Year - ProyectoAdopta</p>
+        </footer> 
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

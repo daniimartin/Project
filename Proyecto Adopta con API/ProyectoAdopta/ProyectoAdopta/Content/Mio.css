@@ -1,0 +1,15 @@
+﻿/* CSS mío */
+footer{
+    width: 100%;
+    background: #222222;
+}
+
+.img_header{
+    width: 100%;
+}
+
+.img_contacto{
+    position: relative;
+    margin: auto;
+    width: 80%;
+}

@@ -1,0 +1,3 @@
+En la API he puesto los métodos de listar, detalles e insertar usuarios.
+Carrito =>
+El login lo he dejado en MVC como estaba porque me daban errores haciéndolo con la API.
